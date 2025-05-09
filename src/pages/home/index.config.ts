@@ -4,7 +4,7 @@ export default {
   backgroundTextStyle:'@textStyle',
   navigationBarBackgroundColor:'@navBgColor',
   navigationBarTextStyle:'@navTextColor',
-  navigationStyle: 'default',
+  navigationStyle: 'custom',
   disableScroll: true
 };
 
